@@ -47,3 +47,4 @@ octave-workspace
 
 # gif should be committed manually
 *.gif
+!figures/*.gif
